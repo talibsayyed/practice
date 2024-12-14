@@ -3,3 +3,7 @@ python_dotenv
 langchain_community
 pypdf
 bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
